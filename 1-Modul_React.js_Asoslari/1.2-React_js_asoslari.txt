@@ -1,0 +1,12 @@
+1.Declarative
+2.Component-Based
+3.Learn Once, Write Anywhere
+
+biz react.js texnologiyasining 3ta bo'limini o'rganib xar-xil turdagi katta katta loyihalar qilishimiz mumkin bo'ladi.
+
+
+1.Declarative
+biz nimani nazarda tutamiz
+ya'ni ikkita tipi bor
+
+Ya'ni declarative va intraktive

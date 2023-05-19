@@ -1,0 +1,20 @@
+Avvalam bor assalomu alaykum hammaga!
+Bugun biz sizlar bilan react.js texnologiyasini o'rganishni boshlaymiz.
+Aytib o'tishim kerakki hozirgi kunda salkam barcha web saytlar react.js texnologiyasi va shunga o'xshagan texnologiyalar asosida yaratilyapti.
+
+Savol to'g'ilishi mumkin !
+nima uchun vanilla emas nega javascript asosiga qurilgan frameworklarni o'rganishimiz kerak ?
+
+nega vanilla.js qilolmagan narsalarni ular qiloladimi yoki degan savollar tug'ilishi mumkin.
+
+web saytlarimiz foydalanuvchiga judayam qulay bo'lishi va tez ishlashi zarur hisoblanadi.
+
+shu paytgacha biz web saytlarimiz qurish jarayonida ko'pincha brauzerda joy egallashi va ishlash tezligiga e'tibor qaratmadik.
+
+bu esa bizga bir qancha muammolarni olib keladi.
+
+brauzerda ortiqcha joy egallash bu saytimizning sekinlashishiga olib keladi.
+bu esa foydalanuvchiga yoqmaydi.
+
+
+ 
